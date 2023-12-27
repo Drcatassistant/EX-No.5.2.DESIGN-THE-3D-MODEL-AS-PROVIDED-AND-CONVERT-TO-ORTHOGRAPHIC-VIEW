@@ -38,5 +38,9 @@ Switch to drawing mode from design mode
 ## OUTPUT
 
 
+![Screenshot 2023-12-27 143646](https://github.com/Drcatassistant/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/144364462/c6fd2a59-a983-45d8-b146-8aa2275f110b)
+
+
+
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
